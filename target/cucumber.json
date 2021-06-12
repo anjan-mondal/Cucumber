@@ -1,0 +1,328 @@
+[
+  {
+    "line": 20,
+    "elements": [
+      {
+        "line": 23,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDef.Hook.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 24,
+            "name": "I want to launch the website",
+            "match": {
+              "location": "stepDef.steps.i_want_to_launch_the_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDef.Hook.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 25,
+            "name": "User enter the username and password",
+            "match": {
+              "location": "stepDef.steps.user_enter_the_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDef.Hook.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 26,
+            "name": "User is able to login the application",
+            "match": {
+              "location": "stepDef.steps.user_is_able_to_login_the_application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-07T20:09:19.053Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2150124600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Hook.beforeTest(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 28,
+        "name": "",
+        "description": "",
+        "id": "check-the-backgroud-of-cucumber;",
+        "after": [
+          {
+            "result": {
+              "duration": 187036700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Hook.afterTest()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDef.Hook.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 29,
+            "name": "User should able to see the dashboard tab",
+            "match": {
+              "location": "stepDef.steps.user_should_able_to_see_the_dashboard_tab()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDef.Hook.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 30,
+            "name": "user should click on search button",
+            "match": {
+              "location": "stepDef.steps.user_should_click_on_search_button()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag5"
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDef.Hook.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 24,
+            "name": "I want to launch the website",
+            "match": {
+              "location": "stepDef.steps.i_want_to_launch_the_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDef.Hook.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 25,
+            "name": "User enter the username and password",
+            "match": {
+              "location": "stepDef.steps.user_enter_the_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "duration": 1000900,
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDef.Hook.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 26,
+            "name": "User is able to login the application",
+            "match": {
+              "location": "stepDef.steps.user_is_able_to_login_the_application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-06-07T20:09:19.048Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2150124600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Hook.beforeTest(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 32,
+        "name": "",
+        "description": "",
+        "id": "check-the-backgroud-of-cucumber;",
+        "after": [
+          {
+            "result": {
+              "duration": 198039900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDef.Hook.afterTest()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDef.Hook.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 33,
+            "name": "User should able to see the Report tab",
+            "match": {
+              "location": "stepDef.steps.user_should_able_to_see_the_report_tab()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2999600,
+              "status": "passed"
+            },
+            "before": [
+              {
+                "result": {
+                  "status": "passed"
+                },
+                "match": {
+                  "location": "stepDef.Hook.beforeStep(io.cucumber.java.Scenario)"
+                }
+              }
+            ],
+            "line": 34,
+            "name": "User should able to export the report",
+            "match": {
+              "location": "stepDef.steps.user_should_able_to_export_the_report()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag5"
+          }
+        ]
+      }
+    ],
+    "name": "Check the backgroud of cucumber",
+    "description": "  I want to check the background keyword in cucucmber",
+    "id": "check-the-backgroud-of-cucumber",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/feature2.feature",
+    "tags": [
+      {
+        "name": "@tag5",
+        "type": "Tag",
+        "location": {
+          "line": 19,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
